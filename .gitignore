@@ -1,5 +1,4 @@
-/event_planer/node_modules
-./event_planer/package-lock.json
-./todo_list/node_modules
-./todo_list/package-lock.json
-./theia
+node_modules/
+.vscode/
+.idea/
+.theia/
